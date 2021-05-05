@@ -1,0 +1,12 @@
+DemoProject.xcodeproj/project.xcworkspace
+DemoProject.xcodeproj/xcuserdata
+DemoProject.xcodeproj/project.xcworkspace/xcuserdata
+DemoProject.xcodeproj/project.xcworkspace/DemoProject.xcworkspace
+DemoProject.xcworkspace/contents.xcworkspacedata
+DemoProject.xcworkspace/xcuserdata
+DemoProject.xcworkspace
+DemoProject.xcworkspace/xcshareddata
+Pods
+*.DS_Store
+.DS_Store
+Podfile.lock
