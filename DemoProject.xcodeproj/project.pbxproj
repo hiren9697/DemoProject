@@ -17,6 +17,7 @@
 		43BC654F2643051500DAEB0D /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BC654E2643051500DAEB0D /* LoginVC.swift */; };
 		43BC65522643052600DAEB0D /* RegistrationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BC65512643052600DAEB0D /* RegistrationVC.swift */; };
 		43BC655A2643062B00DAEB0D /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BC65592643062B00DAEB0D /* HomeVC.swift */; };
+		43BC656126430CDB00DAEB0D /* ProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BC656026430CDB00DAEB0D /* ProfileVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		43BC654E2643051500DAEB0D /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		43BC65512643052600DAEB0D /* RegistrationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationVC.swift; sourceTree = "<group>"; };
 		43BC65592643062B00DAEB0D /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		43BC656026430CDB00DAEB0D /* ProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 		43BC6533264301D600DAEB0D /* DemoProject */ = {
 			isa = PBXGroup;
 			children = (
+				43BC655F26430CCC00DAEB0D /* Profile */,
 				43BC65582643061C00DAEB0D /* Home */,
 				43BC654D264304F900DAEB0D /* Entry */,
 				43BC6534264301D600DAEB0D /* AppDelegate.swift */,
@@ -93,6 +96,14 @@
 				43BC65592643062B00DAEB0D /* HomeVC.swift */,
 			);
 			path = Home;
+			sourceTree = "<group>";
+		};
+		43BC655F26430CCC00DAEB0D /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				43BC656026430CDB00DAEB0D /* ProfileVC.swift */,
+			);
+			path = Profile;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -169,6 +180,7 @@
 				43BC655A2643062B00DAEB0D /* HomeVC.swift in Sources */,
 				43BC65522643052600DAEB0D /* RegistrationVC.swift in Sources */,
 				43BC6539264301D600DAEB0D /* ViewController.swift in Sources */,
+				43BC656126430CDB00DAEB0D /* ProfileVC.swift in Sources */,
 				43BC6535264301D600DAEB0D /* AppDelegate.swift in Sources */,
 				43BC6537264301D600DAEB0D /* SceneDelegate.swift in Sources */,
 				43BC654F2643051500DAEB0D /* LoginVC.swift in Sources */,
